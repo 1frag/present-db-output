@@ -7,7 +7,7 @@ SELECT * FROM pg_stat_activity;
 
 Решение есть!
 1. Скопируйте вывод
-1. `python -m present_db_output -o example.json`
+1. `ipdo -o example.json`
 ```json5
 [
   {
